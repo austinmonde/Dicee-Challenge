@@ -1,3 +1,3 @@
 #DICE GAME
-'Simple web dice game built with JS, HTML and CSS'
-'played by refreshing the site'
+Simple web dice game built with JS, HTML and CSS
+play by refreshing the site
